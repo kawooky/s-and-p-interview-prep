@@ -1,0 +1,23 @@
+{
+  "name": "s-and-p-interview-prep",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kawooky/s-and-p-interview-prep.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kawooky/s-and-p-interview-prep/issues"
+  },
+  "homepage": "https://github.com/kawooky/s-and-p-interview-prep#readme",
+  "dependencies": {
+    "jest": "^29.5.0"
+  }
+}
